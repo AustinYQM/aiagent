@@ -5,8 +5,3 @@ Boot.dev ai agent course
 Im not good at this
 a
 .;;l
-
-
-
-
-lolololol
