@@ -10,6 +10,3 @@ ddddddd
 
 l
 
-
-
-dddddddddddddddddddddddddddd
