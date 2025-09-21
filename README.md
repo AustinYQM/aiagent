@@ -2,4 +2,4 @@
 
 s
 ddd
-Today was a good day
+Today was a day
