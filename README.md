@@ -1,5 +1,3 @@
 # aiagent
 
-s
-ddd
-T
+
